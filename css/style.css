@@ -1,0 +1,32 @@
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+.logo {
+  color: #2196f3;
+}
+
+.hero {
+  background-color: #2f303a;
+  color: white;
+}
+
+.team {
+  background: #f5f4fa;
+}
+.team-description p {
+  color: #757575;
+}
+
+.footer {
+  background: #2f303a;
+  color: white;
+}
+.logo-footer {
+  color: #2196f3;
+}
+.logo-footer-second {
+  color: white;
+}
